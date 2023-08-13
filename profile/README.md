@@ -1,4 +1,4 @@
-# Welcome to Moves That Matter.
+# Welcome to Moves That Matter
 
 We are the organization behind [Movex.dev](https://www.movex.dev/) and Chessroulette.live. 
 
