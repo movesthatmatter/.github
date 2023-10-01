@@ -9,6 +9,6 @@ We are the organization behind [Movex.dev](https://www.movex.dev/) and Chessroul
   </picture>
 </a>
 
-We specialize in building chess-based games and open-source projects for the web.
+We specialize in building turn-based games and open-source projects for the web.
 
 Say hi on [Discord](https://discord.gg/N8k447EmBh) or open an issue [here](https://github.com/movesthatmatter/.github/issues)!
