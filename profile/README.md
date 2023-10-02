@@ -16,17 +16,17 @@ Movex is a Open-Source State Management and Synchronization library that abstrac
   </picture>
 </a>
 
-[See Repo](https://github.com/movesthatmatter/movex)
+[See Website](https://movex.dev)
 
 ### Chessroulette - Where Chess Meets Video
-<a href="https://partner.chessroulette.live">
+<a href="https://github.com/movesthatmatter/chessroulette-web">
   <picture width="500">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/movesthatmatter/chessroulette-web/master/src/components/Logo/assets/Logo_light_full.svg" width="250">
     <img alt="Chessroulette Logo" src="https://raw.githubusercontent.com/movesthatmatter/chessroulette-web/master/src/components/Logo/assets/Logo_dark_full.svg" width="250">
   </picture>
 </a>
 
-[See Repo](https://github.com/movesthatmatter/chessroulette-web)
+[See Promo Website](https://partner.chessroulette.live) (_Note - The original [chessroulette.live](https://chessroulette.live) is paused at the moment._)
 
 
 ## Team
