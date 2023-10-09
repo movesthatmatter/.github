@@ -5,9 +5,11 @@ We mostly work with Javascript/Typescript, React & React Native, NextJS and othe
 
 ## Our latest projects:
 
-### Movex - Realtime State Sync without the backend
+### Movex - Serverless real-time data sharing infrastructure for frontend developers!
 
-Movex is a Open-Source State Management and Synchronization library that abstracts the server-side and backend logic to share state between multiple users of your app.
+Movex is the open-source infrastructure that helps you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉
+
+With it's unique approach and set of features Movex gives you the freedom to focus only on the front-end while still maintaining all of the control over the App Logic, UI/UX and Authority over Data.
 
 <a href="https://github.com/movesthatmatter/movex">
   <picture width="500">
@@ -15,8 +17,6 @@ Movex is a Open-Source State Management and Synchronization library that abstrac
     <img alt="Movex Logo" src="https://user-images.githubusercontent.com/2099521/242975504-a6faa334-a6b3-44b4-bf40-6ffcd27d9c08.png" width="300">
   </picture>
 </a>
-
-[See Website](https://movex.dev)
 
 ### Chessroulette - Where Chess Meets Video
 <a href="https://github.com/movesthatmatter/chessroulette-web">
