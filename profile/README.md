@@ -7,7 +7,7 @@ We mostly work with Javascript/Typescript, React & React Native, NextJS and othe
 
 ### Movex - Serverless real-time data sharing infrastructure for frontend developers!
 
-Movex is the open-source infrastructure that helps you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉
+The open-source infrastructure that helps you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉
 
 With it's unique approach and set of features Movex gives you the freedom to focus only on the front-end while still maintaining all of the control over the App Logic, UI/UX and Authority over Data.
 
