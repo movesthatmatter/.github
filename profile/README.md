@@ -23,13 +23,13 @@ With it's unique approach and set of features Movex gives you the freedom to foc
 ### Chessroulette - Connect. Play. Study
 
 <a href="https://chessroulette.live">
-  <picture width="500">
+  <picture width="650">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/movesthatmatter/chessroulette-web/master/src/components/Logo/assets/Logo_light_full.svg" width="250">
     <img alt="Chessroulette Logo" src="https://raw.githubusercontent.com/movesthatmatter/chessroulette-web/master/src/components/Logo/assets/Logo_dark_full.svg" width="250">
   </picture>
 </a>
 
-Chess Roulette combines classic chess with live video for a fast-paced, unpredictable experience. Challenge friends or new opponents and add a fresh twist to every game!
+Chessroulette is an online platform that combines chess gameplay with real-time video interaction. It allows you to play one-on-one matches with friends or new opponents, join virtual classrooms for studying chess with instructors, and connect through video chat while playing. Designed to make online chess more interactive and personal, Chessroulette helps players learn, play, and connect with ease.
 
 ---
 
