@@ -1,11 +1,13 @@
-# Welcome to Moves That Matter
+# What is [Moves That Matter].io
 
-We are a team of passionate indi-preneurs specializing in building web and mobile applications, (turn-based) games and Open-Source projects. 
+We are the Tech branch of the [Moves That Matter](https://movesthatmatter.org) organization. We believe un Open Source and #sacredtech. Here to do our part in the upcoming changes. See the [Moves That Matter].org [Manifesto](https://www.movesthatmatter.org/manifesto). 
+
+Over the years we specialized in building web and mobile applications, turn-based games like chess. 
 We mostly work with Javascript/Typescript, React & React Native, NextJS and other amazing technologies in the Javascript ecosystem.
 
-## Our latest projects:
+## What we built:
 
-### Movex - Serverless real-time data sharing infrastructure for frontend developers!
+### Movex (Open-Source) - Serverless real-time data sharing infrastructure for frontend developers!
 
 <a href="https://github.com/movesthatmatter/movex">
   <picture width="500">
@@ -14,13 +16,13 @@ We mostly work with Javascript/Typescript, React & React Native, NextJS and othe
   </picture>
 </a>
 
-The open-source infrastructure that helps you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉
+The Open-Source infrastructure that helps you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉
 
 With it's unique approach and set of features Movex gives you the freedom to focus only on the front-end while still maintaining all of the control over the App Logic, UI/UX and Authority over Data.
 
 ---
 
-### Chessroulette - Connect. Play. Study
+### Chessroulette (Open-Source) - It's like zoom but with chess.
 
 <a href="https://chessroulette.live">
   <picture width="650">
@@ -47,4 +49,4 @@ Chessroulette is an online platform that combines chess gameplay with real-time 
 </span>
 
 ## Contact
-Say hi on [Discord](https://discord.gg/N8k447EmBh), check us out on [Linkedin](https://www.linkedin.com/company/moves-that-matter-llc) or open an issue [here](https://github.com/movesthatmatter/.github/issues)!
+Open an issue [here](https://github.com/movesthatmatter/.github/issues)!
